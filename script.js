@@ -1,20 +1,20 @@
 const images = [
-    "kuva1.PNG", "kuva2.PNG", "kuva3.PNG", "kuva4.PNG",
-    "kuva5.PNG", "kuva6.PNG", "kuva7.PNG", "kuva8.PNG",
-    "kuva9.PNG", "kuva10.PNG",
+    "kuva1.png", "kuva2.png", "kuva3.png", "kuva4.png",
+    "kuva5.png", "kuva6.png", "kuva7.png", "kuva8.png",
+    "kuva9.png", "kuva10.png",
 ];
 
 const audioFiles = {
-    "kuva1.PNG": "kuva1.mp3",
-    "kuva2.PNG": "kuva2.mp3",
-    "kuva3.PNG": "kuva3.mp3",
-    "kuva4.PNG": "kuva4.mp3",
-    "kuva5.PNG": "kuva5.mp3",
-    "kuva6.PNG": "kuva6.mp3",
-    "kuva7.PNG": "kuva7.mp3",
-    "kuva8.PNG": "kuva8.mp3",
-    "kuva9.PNG": "kuva9.mp3",
-    "kuva10.PNG": "kuva10.mp3",
+    "kuva1.png": "kuva1.mp3",
+    "kuva2.png": "kuva2.mp3",
+    "kuva3.png": "kuva3.mp3",
+    "kuva4.png": "kuva4.mp3",
+    "kuva5.png": "kuva5.mp3",
+    "kuva6.png": "kuva6.mp3",
+    "kuva7.png": "kuva7.mp3",
+    "kuva8.png": "kuva8.mp3",
+    "kuva9.png": "kuva9.mp3",
+    "kuva10.png": "kuva10.mp3",
 };
 
 let selectedImages = [];
